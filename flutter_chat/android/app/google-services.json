@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389833585115",
+    "project_id": "whatsappclone-19925",
+    "storage_bucket": "whatsappclone-19925.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389833585115:android:8ffa02b4cecdde2d3537fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEF9CgTusQVTn0mAaVr2AtvsSh9_CkeOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389833585115:android:a17f7e4b7afa83ba3537fe",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEF9CgTusQVTn0mAaVr2AtvsSh9_CkeOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
